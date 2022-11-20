@@ -16,11 +16,6 @@ Module modMain
         Dim tabEXP(0) As Byte, tabTampon(0) As Byte
         Dim reponse As String, nbRejets As Integer, minPieces As Integer
         
-        If My.Computer.FileSystem.GetFileInfo(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) & "\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\bin\Debug\plainToEXP.exe").LastWriteTime > My.Computer.FileSystem.GetFileInfo(My.Application.Info.AssemblyName & ".exe").LastWriteTime Then
-            MsgBox("Il existe une version plus récente de ce programme !", MsgBoxStyle.Information)
-            End
-        End If
-
         fichierPLAIN = Replace(Command(), """", "")
         If fichierPLAIN = "" Then
             End
@@ -39,10 +34,7 @@ Module modMain
         End If
 
         'chargement parametres
-        moteurEXP = "20T Eman 8.20 x64 BMI2.exe"
-        If My.Computer.Name = "PLEXI" Then
-            moteurEXP = "20T Eman 8.20 x64 PCNT.exe"
-        End If
+        moteurEXP = "Eman.exe"
         fichierINI = My.Computer.Name & ".ini"
         If My.Computer.FileSystem.FileExists(fichierINI) Then
             chaine = My.Computer.FileSystem.ReadAllText(fichierINI)

@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\bin\Debug\plainToEXP.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\bin\Debug\plainToEXP.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\bin\Debug\plainToEXP.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\bin\Debug\plainToEXP.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\obj\Debug\plainToEXP.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\obj\Debug\plainToEXP.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\obj\Debug\plainToEXP.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\obj\Debug\plainToEXP.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToEXP\plainToEXP\obj\Debug\plainToEXP.pdb
